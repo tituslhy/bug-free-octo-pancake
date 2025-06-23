@@ -1,5 +1,5 @@
-# bug-free-octo-pancake
-Redteaming LLM applications with Giskard. 
+# Giskard Redteaming Playground
+How to redteam LLM applications with Giskard. 
 
 This GitHub repository is a companion resource to the Medium article [Think Your RAG App Is Safe? Giskard Might Prove You Wrong](https://medium.com/@tituslhy/think-your-rag-app-is-safe-giskard-might-prove-you-wrong-6c88b08c5f7a)
 
